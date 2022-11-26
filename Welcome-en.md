@@ -7,10 +7,10 @@ We're making the world a better place. Through constructing elegant hierarchies 
 #### We want to publish a game about Classic of Mountains and Seas.
 ---
 ### Join us
-#### 1.Email to N-H-A-S@outlook.com with your Github usename.
-#### 2.Join QQ group:5714770938.
-#### 3.Join the Telegram group.
-#### 4.Post in the Discussion.
+#### 1.Email to N-H-A-S@outlook.com with your Github usename
+#### 2.Join QQ group:5714770938
+#### 3.Join the Telegram group
+#### 4.Post in the Discussion
 ---
 ### Thanks for reading！
 #### First edition written in 2022.11.23
